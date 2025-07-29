@@ -15,6 +15,7 @@ cout along with manipulators like spaces (" ") and newline (endl) are used to co
 Using nested loops with counters, programmers can generate a variety of number and star patterns. These exercises help develop control over flow structures and attention to detail in logic.
 
 🔧 Program Collection
+
 ✅ 1. Print Even Numbers from 0 to 10
 Purpose: Display even numbers using a for loop and an if condition.
 Logic: Numbers divisible by 2 are considered even.
