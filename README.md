@@ -1,3 +1,4 @@
+AIM-
 To practice fundamental C++ programming concepts including loops, nested loops, conditional statements, and pattern generation. This compilation serves as a mini lab to strengthen output formatting and logical flow using simple code constructs.
 
 📚 Theory
@@ -30,11 +31,9 @@ Purpose: Print a reversed star triangle starting from the largest row.
 ✅ 6. Center-Aligned Pyramid Pattern
 Purpose: Display a pyramid-shaped pattern with center alignment.
 Logic: Left spaces plus stars with spacing for structure
+
 🧠 Conclusion
 These basic C++ programs reinforce understanding of:
-
 Loop control and nesting
-
 Output alignment and pattern creation
-
 Incrementing logic and conditional checks
